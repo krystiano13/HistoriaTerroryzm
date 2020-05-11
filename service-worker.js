@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/HistoriaTerroryzm/precache-manifest.3be0030c8d10b17134578ef761b1c94c.js"
+  "/HistoriaTerroryzm/precache-manifest.c34142aec7c7a225dabf17225d750c89.js"
 );
 
 self.addEventListener('message', (event) => {
