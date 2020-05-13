@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df398de1152e2a5a26bcaa1351f4749d",
+    "revision": "afef946d864de85be4e2121e360b5e95",
     "url": "/HistoriaTerroryzm/index.html"
   },
   {
-    "revision": "f411c3088fa896abf3ac",
-    "url": "/HistoriaTerroryzm/static/css/main.689409c1.chunk.css"
+    "revision": "7f9da1e8636d4656cfac",
+    "url": "/HistoriaTerroryzm/static/css/main.0bdd4ea9.chunk.css"
   },
   {
     "revision": "54af4cf872dfe3d9a69a",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HistoriaTerroryzm/static/js/2.c7114b5f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f411c3088fa896abf3ac",
+    "revision": "7f9da1e8636d4656cfac",
     "url": "/HistoriaTerroryzm/static/js/main.7760e5e0.chunk.js"
   },
   {
