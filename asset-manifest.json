@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/HistoriaTerroryzm/static/css/main.76c6e1e6.chunk.css",
-    "main.js": "/HistoriaTerroryzm/static/js/main.dd36a11c.chunk.js",
-    "main.js.map": "/HistoriaTerroryzm/static/js/main.dd36a11c.chunk.js.map",
+    "main.js": "/HistoriaTerroryzm/static/js/main.22bc9dd7.chunk.js",
+    "main.js.map": "/HistoriaTerroryzm/static/js/main.22bc9dd7.chunk.js.map",
     "runtime-main.js": "/HistoriaTerroryzm/static/js/runtime-main.7ab2f97a.js",
     "runtime-main.js.map": "/HistoriaTerroryzm/static/js/runtime-main.7ab2f97a.js.map",
     "static/js/2.c7114b5f.chunk.js": "/HistoriaTerroryzm/static/js/2.c7114b5f.chunk.js",
     "static/js/2.c7114b5f.chunk.js.map": "/HistoriaTerroryzm/static/js/2.c7114b5f.chunk.js.map",
     "index.html": "/HistoriaTerroryzm/index.html",
-    "precache-manifest.6eabad8016f4cb98c944e857f6f3b590.js": "/HistoriaTerroryzm/precache-manifest.6eabad8016f4cb98c944e857f6f3b590.js",
+    "precache-manifest.d0c28b0e6e915b69b037e11be920692f.js": "/HistoriaTerroryzm/precache-manifest.d0c28b0e6e915b69b037e11be920692f.js",
     "service-worker.js": "/HistoriaTerroryzm/service-worker.js",
     "static/css/main.76c6e1e6.chunk.css.map": "/HistoriaTerroryzm/static/css/main.76c6e1e6.chunk.css.map",
     "static/js/2.c7114b5f.chunk.js.LICENSE.txt": "/HistoriaTerroryzm/static/js/2.c7114b5f.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.7ab2f97a.js",
     "static/js/2.c7114b5f.chunk.js",
     "static/css/main.76c6e1e6.chunk.css",
-    "static/js/main.dd36a11c.chunk.js"
+    "static/js/main.22bc9dd7.chunk.js"
   ]
 }
